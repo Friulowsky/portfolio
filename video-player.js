@@ -1519,7 +1519,7 @@
       enabled: !0,
       title: "",
       debug: !1,
-      autoplay: !1,
+      autoplay: 1,
       autopause: !0,
       playsinline: !0,
       seekTime: 10,
